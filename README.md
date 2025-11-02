@@ -105,3 +105,6 @@ I also learned how small design decisions at the software level can influence th
 This project was carried out as part of the Software Engineering Project (M1 Artificial Intelligence, 2025).
 2025 Aya Haddoun — All rights reserved.
 
+## Project Report
+The complete report is available here:  
+[Download the PDF](./SE_Project_2025_Report_Aya_Haddoun.pdf)
